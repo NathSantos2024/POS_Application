@@ -62,20 +62,21 @@ Aproveite a aplicação! 😊
 
 ## Estrutura do Projeto
 
-pos-application/
-│
-├── src/                       # Código fonte
-│   ├── pos/                   # Pacote principal
-│   │   ├── frm_pos.java       # Classe principal da aplicação
-│   │   └── ...                # Outras classes e arquivos
-│
-├── dist/                      # Pasta de distribuição
-│   ├── lib/                   # Bibliotecas necessárias
-│   ├── POS.jar                # Arquivo executável da aplicação
-│
-├── README.md                  # Este arquivo
-├── LICENSE                    # Licença do projeto
-└── ...                        # Outros arquivos
+pos-application/<br>
+│<br>
+├── src/                       # Código fonte<br>
+│   ├── pos/                   # Pacote principal<br>
+│   │   ├── frm_pos.java       # Classe principal da aplicação<br>
+│   │   └── ...                # Outras classes e arquivos<br>
+│<br>
+├── dist/                      # Pasta de distribuição<br>
+│   ├── lib/                   # Bibliotecas necessárias<br>
+│   ├── POS.jar                # Arquivo executável da aplicação<br>
+│<br>
+├── README.md                  # Este arquivo<br>
+├── LICENSE                    # Licença do projeto<br>
+└── ...                        # Outros arquivos<br>
+
 
 ---
 
