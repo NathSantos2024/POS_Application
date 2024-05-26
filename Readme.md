@@ -20,12 +20,15 @@ Foi desenvolvido utilizando a IDE Apache NetBeans 15 e o MySQL (XAMPP v3.3.0) co
 1. **Compilação**:
     - Quando compila o projeto Java que possui uma classe principal, a IDE automaticamente copia todos os arquivos JAR no classpath do projeto para a pasta `dist/lib`.
     - A IDE também adiciona cada um dos arquivos JAR ao elemento Class-Path no arquivo de manifesto do JAR da aplicação (MANIFEST.MF).
+    
+    **Pode baixar o Arquivo JAR direto e testar a aplicação**: [Clique aqui para baixar o arquivo POS.jar](https://github.com/NathSantos2024/POS_Application/raw/master/dist/POS.jar)
 
 2. **Execução**:
-    - Para executar o projeto a partir da linha de comando, vá para a pasta `dist` e digite o seguinte comando:
+    - Para executar o projeto a partir da linha de comando, vá para a pasta `dist` ou diretório onde o arquivo POS.jar foi baixado e digite o seguinte comando:
       ```bash
       java -jar "POS.jar"
       ```
+    - Para testar a aplicação certifique-se de ter o Java Runtime Environment (JRE) instalado em seu sistema. Você pode baixá-lo em java.com. A aplicação será iniciada e estará pronta para uso. Explore os recursos e desfrute!
 
 3. **Distribuição**:
     - Para distribuir este projeto, compacte a pasta `dist` (incluindo a pasta `lib`) e distribua o arquivo ZIP.
