@@ -64,19 +64,18 @@ Aproveite a aplicação! 😊
 
 pos-application/
 │
-├── src/ # Código fonte
-│ ├── pos/ # Pacote principal
-│ │ ├── frm_pos.java # Classe principal da aplicação
-│ │ └── ... # Outras classes e arquivos
+├── src/                       # Código fonte
+│   ├── pos/                   # Pacote principal
+│   │   ├── frm_pos.java       # Classe principal da aplicação
+│   │   └── ...                # Outras classes e arquivos
 │
-├── dist/ # Pasta de distribuição
-│ ├── lib/ # Bibliotecas necessárias
-│ ├── POS.jar # Arquivo executável da aplicação
+├── dist/                      # Pasta de distribuição
+│   ├── lib/                   # Bibliotecas necessárias
+│   ├── POS.jar                # Arquivo executável da aplicação
 │
-├── README.md # Este arquivo
-├── LICENSE # Licença do projeto
-└── ... # Outros arquivos
-
+├── README.md                  # Este arquivo
+├── LICENSE                    # Licença do projeto
+└── ...                        # Outros arquivos
 
 ---
 
